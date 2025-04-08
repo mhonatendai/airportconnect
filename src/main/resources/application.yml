@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: airport-connect-core
+  profiles:
+    active: dev
+
+server:
+  port: 9095
+  servlet:
+    context-path: /airport-connect-core
+  error:
+    include-message: always
