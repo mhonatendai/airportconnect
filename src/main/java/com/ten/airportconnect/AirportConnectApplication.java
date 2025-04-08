@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AirportconnectApplication {
+public class AirportConnectApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AirportconnectApplication.class, args);
+		SpringApplication.run(AirportConnectApplication.class, args);
 	}
 
 }
